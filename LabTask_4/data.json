@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Mohammed Ibrahim",
+    "gender": "male",
+    "email": "ibrahim123@gmail.com",
+    "username": "Ibru",
+    "password": "1234",
+    "confirmpassword": "1234",
+    "dateofbirth": "1998-11-07"
+  }
+]
